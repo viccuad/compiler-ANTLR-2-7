@@ -1,0 +1,21 @@
+@ Programa de ejemplo 1
+int a; 
+int b;
+
+real c;
+real d;
+
+ 
+a = 3;
+b = 1;
+
+a >= (a = b);
+a <= (a = b);
+a != (a = b);
+a == (a = b);
+a > (a = b);
+a < (a = b);
+
+
+
+$

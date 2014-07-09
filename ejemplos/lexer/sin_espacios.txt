@@ -1,0 +1,7 @@
+@ ejemplo Lexer operaciones
+real iden1;real iden2;
+
+iden1 = 3.0-5.0;iden2 = 3.3 - 5.4; 
+
+iden1=3-5*(4+2)-4/3*2.10;
+$

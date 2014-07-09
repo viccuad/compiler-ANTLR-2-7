@@ -1,0 +1,18 @@
+@ Programa lexer casting de identificadores
+int iden1; 
+real iden2; 
+
+iden1 = 1;
+iden2 = 0.34;
+
+
+@ de casting de identificadores
+iden1 = (int) iden1;
+
+@ debe dar error
+iden1 = (real) iden1;
+
+iden2 = (int) iden2;
+iden2 = (real) iden2;
+
+$

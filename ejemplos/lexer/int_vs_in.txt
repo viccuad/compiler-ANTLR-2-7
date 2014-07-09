@@ -1,0 +1,11 @@
+@ Programa de ejemplo 1
+real cantidadTotal; 
+int euros;
+int inadecuado;
+int inta;
+
+in euros;
+out cantidadTotal;
+inadecuado = 3;
+inta = 4;
+$

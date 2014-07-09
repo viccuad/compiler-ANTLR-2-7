@@ -1,0 +1,17 @@
+@ Programa parser op_out
+int euros; 
+real pesetas; 
+
+euros = 3;
+
+euros = ( in euros );
+
+@ con asociatividad a derechas del igual
+out euros = ( in euros) ;
+
+
+@ sin asociatividad del igual
+out ( euros = ( in euros) );
+
+ 
+$

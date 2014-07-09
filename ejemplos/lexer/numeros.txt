@@ -1,0 +1,17 @@
+@ ejemplo Lexer numeros
+real numreal; 
+int numentero; 
+int numenteromal;
+
+numreal = 3.14;
+numreal = 3.0;
+numreal =(int) -3.24;
+
+numentero = 0;
+
+@ este esta mal, TIENE QUE SALIR ERROR!!!
+numenteromal = -1;
+
+numentero = -3;
+numentero =  3254353;
+$

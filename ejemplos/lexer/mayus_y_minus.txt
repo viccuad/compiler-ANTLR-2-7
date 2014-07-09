@@ -1,0 +1,6 @@
+int iden1;
+int iDen1;
+
+iden1 = 3;
+iDen1 = 4;
+$

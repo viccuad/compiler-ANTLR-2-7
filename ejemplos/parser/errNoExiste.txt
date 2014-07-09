@@ -1,0 +1,7 @@
+@ Programa parser errNoExiste
+int iden1; 
+real iden2; 
+
+iden3 = 3;
+
+$

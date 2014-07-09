@@ -1,0 +1,7 @@
+@ Programa parser op_in
+int idenInt; 
+real idenReal; 
+
+in idenInt;
+in idenReal;
+$

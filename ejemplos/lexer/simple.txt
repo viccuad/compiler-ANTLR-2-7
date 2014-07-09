@@ -1,0 +1,6 @@
+@ Programa de ejemplo simple
+real iden1; 
+int iden2;
+
+iden1 = iden2;
+$

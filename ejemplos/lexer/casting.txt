@@ -1,0 +1,9 @@
+@ ejemplo Lexer casting
+real numreal; 
+int numentero; 
+
+numentero = (int) numreal;
+numentero = (int)numreal;
+numreal = (real) numentero;
+numreal = (real)numentero;
+$

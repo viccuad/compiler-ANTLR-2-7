@@ -1,0 +1,18 @@
+@ Programa lexer casting de numeros
+int iden1; 
+real iden2; 
+
+
+iden1 = 1;
+iden2 = 0.34;
+
+@ casting de numeros
+iden1 = (int) 3.14;
+iden1 = (int) 3.14;
+
+iden2 = (real) 3;
+iden2 = (real)(-3);
+iden2 = (real) 3.14;
+
+$
+

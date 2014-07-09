@@ -1,0 +1,12 @@
+@ ejemplo parser iden 
+int iden1;
+
+
+@ ejemplos de identificadores:
+int _iden;
+int _23iden;
+int num3r05yL3tr4s;
+real _numeros_y_letras;
+real numerosYletras;
+iden1 = 1 + 2;
+@ comentario

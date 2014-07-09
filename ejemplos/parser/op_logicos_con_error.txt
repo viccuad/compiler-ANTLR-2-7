@@ -1,0 +1,22 @@
+@ Programa lexer op_logicos_con_error
+int iden1; 
+real iden2; 
+
+
+iden1 = 1;
+iden2 = 1.0;
+
+
+iden1 = iden2 < iden2;
+iden1 = iden2 > iden2;
+iden1 = iden2 <= iden1;
+iden1 = iden2 >= iden2;
+iden1 = iden2 == iden1;
+iden1 = iden2 != iden2;
+
+@ operaciones logicas  TIENE QUE DAR ERRTIPO
+iden1 = iden2 || iden1;
+iden1 = iden1 || iden2;
+iden1 = iden1 && iden1;
+
+$

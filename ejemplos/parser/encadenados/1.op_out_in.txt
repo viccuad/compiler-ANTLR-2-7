@@ -1,0 +1,9 @@
+@ Programa parser op_out
+int euros; 
+real peseTas; 
+
+euros = 3;
+
+@ hace falta parentesis por definicion de la gramatica
+out ( in euros);
+$

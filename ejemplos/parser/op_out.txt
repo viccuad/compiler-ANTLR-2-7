@@ -1,0 +1,11 @@
+@ Programa parser op_out
+int euros; 
+real peseTas; 
+
+euros = 3;
+
+out 4;
+3 +4;
+
+out (euros = 3);
+$

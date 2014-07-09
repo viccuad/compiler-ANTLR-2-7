@@ -1,0 +1,13 @@
+@ Programa de ejemplo 2
+real cantidadTotal; 
+int euros; 
+real centimos; 
+
+in euros;
+in centimos;
+cantidadTotal = euros + centimos;
+
+out euros;
+out centimos;
+out cantidadTotal;
+$

@@ -1,0 +1,17 @@
+@ Programa lexer op_aritmetico
+real idenReal; 
+int idenInt; 
+
+
+idenReal = 2.0;
+idenInt = 3;
+
+@ operaciones aritmeticas
+idenReal = ( idenInt = idenInt );
+idenReal = idenInt + idenInt;
+idenReal = idenInt - idenInt;
+idenReal = idenInt * idenInt;
+idenReal = idenInt / idenInt;
+idenReal = idenInt % idenInt;
+
+$

@@ -1,0 +1,9 @@
+@ Programa lexer div_0
+real idenReal; 
+
+idenReal = 2.0;
+
+idenReal = 4.0 / 0;
+
+
+$

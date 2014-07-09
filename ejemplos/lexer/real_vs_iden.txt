@@ -1,0 +1,8 @@
+@ Programa de ejemplo real_vs_iden
+real iden1; 
+real reale;
+real real;
+rea real;
+real centimos;
+
+$

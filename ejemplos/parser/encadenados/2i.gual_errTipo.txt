@@ -1,0 +1,12 @@
+@ Programa parser op_out
+int euros; 
+real pesetas; 
+
+euros = 3;
+
+euros = ( in euros );
+out euros = ( in euros);
+
+@ error de tipo
+euros = ( in pesetas); 
+$

@@ -1,0 +1,11 @@
+@ Programa lexer parentesis
+int iden1; 
+real iden2; 
+
+
+iden1 = 1;
+iden2 = 0.34;
+
+iden1 = (((2+1)*(4 - 3))/2) % 2;
+
+$

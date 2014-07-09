@@ -1,0 +1,14 @@
+@ ejemplo parser salto_linea
+int iden1;
+
+iden1 = 3 + 2;
+
+iden1 =
+        3
+        +  2
+        ;
+
+        iden1 = 3 - 2; iden1=3 - 2;
+
+    iden1 = 3*3 - 2                               ; @aqui hay tabuladores
+$

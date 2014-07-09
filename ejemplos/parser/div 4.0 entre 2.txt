@@ -1,0 +1,22 @@
+@ Programa lexer div_2
+real idenReal; 
+int idenInt;
+
+real resulReal;
+int resulInt;
+
+idenReal = 2.0;
+idenInt = 4;
+
+resulReal = idenReal/idenInt;
+resulReal = idenInt/idenReal;
+
+resulReal = idenReal/idenReal;
+resulReal = idenInt/idenInt;
+
+resulInt = idenInt/idenInt;
+
+@ debe dar error
+resulInt = idenReal/idenReal;
+
+$

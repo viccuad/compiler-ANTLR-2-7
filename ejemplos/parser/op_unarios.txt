@@ -1,0 +1,27 @@
+@ Programa lexer op_unarios
+real idenReal; 
+int idenInt; 
+
+
+idenReal = 2.0;
+idenInt = 3;
+
+@ operaciones unarias
+
+@ cambio signo
+idenReal = -idenInt;
+
+@ Esto tiene q dar error 
+idenInt = -idenReal;
+
+@ negar
+
+idenInt = !0;
+idenInt = !1;
+
+
+idenReal = !0.0;
+idenReal = !1.0;
+idenInt = !idenReal;
+
+$

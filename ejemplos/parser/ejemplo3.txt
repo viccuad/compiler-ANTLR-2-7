@@ -1,0 +1,14 @@
+@ Programa de ejemplo 3
+real cantidadTotal; 
+int euros; 
+real centimos;
+int comparar;
+int comparar1; 
+
+comparar1 = 0;
+out euros = (int)( 3.0 );
+out centimos = (real)( 18.0 );
+out cantidadTotal = (euros + centimos) - (euros)*2;
+out comparar = (euros < centimos ) || (! comparar1) 
+    &&(euros% 2 == 0) && (- euros> centimos);
+$

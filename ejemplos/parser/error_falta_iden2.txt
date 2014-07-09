@@ -1,0 +1,7 @@
+@ ejemplo parser falta_iden2
+int idenNoExiste;
+
+iden1 = 1 + 2;
+iden1 = 3 + idenNoExiste;
+
+$

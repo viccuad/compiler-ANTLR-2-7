@@ -1,0 +1,5 @@
+@ ejemplo parser simple
+int iden1;
+
+iden1 = 3 + 2;
+$

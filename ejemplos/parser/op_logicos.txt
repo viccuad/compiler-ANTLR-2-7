@@ -1,0 +1,25 @@
+@ Programa lexer op_logicos
+int iden1; 
+int iden2; 
+
+
+iden1 = 1;
+iden2 = 0;
+
+@ operaciones logicas
+iden1 = ( iden2 < iden2);
+iden1 = ( iden2 > iden2 );
+iden1 = ( iden2 <= iden2 );
+iden1 = ( iden2 >= iden2 );
+iden1 = ( iden2 == iden2 );
+iden1 = ( iden2 != iden2 );
+iden1 = ( iden2 || iden2 );
+iden1 = ( iden2 && iden2 );
+iden1 = ! iden2;
+
+
+ iden1 = ( iden2 < iden1 )&&( iden2 > iden1 ) || ( iden2 <= iden2 ) && ( iden2 != iden2 ) ||
+        ( iden2 == iden1 );
+
+
+$

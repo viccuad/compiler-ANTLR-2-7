@@ -1,0 +1,12 @@
+@ Programa de ejemplo 1
+int a; 
+int b;
+int c;
+ 
+a = 3;
+b = 1;
+c = 3;
+a = b;
+a = b = c = 25; 
+
+$

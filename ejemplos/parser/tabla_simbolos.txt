@@ -1,0 +1,14 @@
+@ Programa parser tabla simbolos
+int iden1; 
+real iden2; 
+int iden3;
+real iden4;
+
+
+
+iden1 = 1;
+iden2 = 2.0;
+iden3 = 3;
+iden4 = 4.001;
+
+$

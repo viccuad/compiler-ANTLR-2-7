@@ -1,0 +1,18 @@
+@ Programa parser errTipo
+int idenInt; 
+real idenReal; 
+
+idenInt = 3;
+idenReal = 3.14;
+
+@ casting automatico:
+idenReal = idenInt;
+
+@ aqui suelta un error:
+idenInt = idenReal;
+
+
+idenInt = 3 +4;
+idenReal = ( idenInt / 1 );
+
+$

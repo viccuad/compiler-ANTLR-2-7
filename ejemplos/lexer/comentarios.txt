@@ -1,0 +1,13 @@
+@ ejemplo Lexer comentarios
+@ real iden1; 
+int iden2; 
+
+@esto es otro comentario
+
+@tiene que haber como minimo una accion
+iden2 = 1;
+
+@ la siguiente linea tambien es un comentario
+@$
+
+$

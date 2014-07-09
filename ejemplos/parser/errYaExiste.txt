@@ -1,0 +1,8 @@
+@ Programa parser errYaExiste
+int iden1; 
+real iden2; 
+int iden1;
+
+iden1 = 0;
+
+$

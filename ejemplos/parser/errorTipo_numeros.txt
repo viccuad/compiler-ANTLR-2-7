@@ -1,0 +1,17 @@
+@ Programa lexer op_unarios
+int idenInt; 
+real idenReal;
+
+@ Esto tiene q dar error 
+idenInt = !0.0;
+
+@error por ser real en vez de int 
+idenReal = !1.0;
+
+idenReal = !0;
+
+@ Esto tiene q dar error 
+idenInt = -3.0;
+
+@ casting automatico
+idenReal = -1;

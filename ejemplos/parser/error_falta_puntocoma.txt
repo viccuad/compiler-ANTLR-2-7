@@ -1,0 +1,7 @@
+@ ejemplo parser falta_puntcoma
+int iden1;
+
+iden1 = 1 + 2;
+
+iden1 = 3 + 4
+$

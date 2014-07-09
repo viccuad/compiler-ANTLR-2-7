@@ -1,0 +1,9 @@
+@ número muy grande
+int a; 
+ 
+a = 3 <= 1;
+
+@ no debe de fallar
+a = 387364726374263467 < 1;
+
+$

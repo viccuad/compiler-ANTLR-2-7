@@ -1,0 +1,3 @@
+real reale;
+
+reale = 4;

@@ -1,0 +1,8 @@
+@ Programa parser op_in
+int idenInt; 
+real idenReal; 
+
+idenInt = 3;
+idenReal = 3.13;
+
+$

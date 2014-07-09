@@ -1,0 +1,21 @@
+@ Programa parser errTipo
+int idenInt; 
+real idenReal; 
+
+int resulInt;
+
+idenInt = 3;
+idenReal = 2.4;
+
+@ errTipo = (EopComp1.tipo != int v EopAd.tipo != int)  (R9=R11)
+resulInt = idenInt || idenReal;
+resulInt = idenInt && idenReal;
+
+
+@ errTipo = (EopUn.tipo != int) (R9=R11=R13)
+resulInt = !idenReal;
+
+@ errTipo errTipo = (EopUn.tipo != int v EopUn.tipo != real (R15)
+resulInt = -idenInt;
+
+$
